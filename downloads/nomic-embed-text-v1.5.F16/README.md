@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `nomic-embed-text-v1.5.F16.gguf` |
-| **URL** | https://huggingface.co/nomic-ai/nomic-embed-text-v1.5/resolve/main/nomic-embed-text-v1.5.F16.gguf |
-| **Date** | 2026-05-09 07:23:51 UTC |
+| **URL** | https://hf-mirror.com/nomic-ai/nomic-embed-text-v1.5/resolve/main/nomic-embed-text-v1.5.F16.gguf |
+| **Date** | 2026-05-09 14:03:49 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: curl: (22) The requested URL returned error: 404
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       curl: (22) The requested URL returned error: 404
 ```
 
 ---
